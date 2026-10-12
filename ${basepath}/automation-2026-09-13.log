@@ -1,0 +1,467 @@
+15:26:00.011 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\VdmnRao\AppData\Local\Temp\testng-eclipse--554084647\testng-customsuite.xml"
+15:26:00.340 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+15:26:00.344 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+15:26:00.346 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:26:00.346 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:26:00.347 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:26:00.347 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:26:00.353 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:26:00.353 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:26:00.363 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+15:26:00.380 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+15:26:00.383 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:26:00.384 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:26:00.388 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:26:00.388 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:26:00.389 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:26:00.389 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:26:00.391 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:26:00.392 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:26:00.393 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:26:00.393 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:26:00.397 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:26:00.397 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:26:00.397 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:26:00.398 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:26:00.399 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:26:00.400 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:26:00.403 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:26:00.403 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:26:00.403 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:26:00.403 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:26:00.419 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VdmnRao\AppData\Local\Temp\testng-eclipse--554084647\testng-customsuite.xml
+
+15:26:00.458 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+15:26:08.842 [main] INFO  testCases.TC001_AccountRegistrationPageTest - ***** Test case started *****
+15:26:08.991 [main] INFO  testCases.TC001_AccountRegistrationPageTest - My account Clicked
+15:26:09.678 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Registration Clicked
+15:26:09.683 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Providing Customer details...
+15:26:12.304 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Validating expected message
+15:26:12.350 [main] ERROR testCases.TC001_AccountRegistrationPageTest - Test Failed
+15:26:12.350 [main] DEBUG testCases.TC001_AccountRegistrationPageTest - Debug logs...
+15:26:13.026 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@1dc2de84: 118 ms
+15:26:13.045 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7428de63: 18 ms
+15:26:13.075 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@38704ff0: 30 ms
+15:26:13.088 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2c6ee758: 13 ms
+15:26:13.099 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6411d3c8: 10 ms
+15:26:13.099 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2116b68b: 0 ms
+15:37:14.544 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\VdmnRao\AppData\Local\Temp\testng-eclipse-2110635329\testng-customsuite.xml"
+15:37:14.862 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:37:14.866 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+15:37:14.868 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:37:14.868 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:37:14.869 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:37:14.869 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:37:14.870 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:37:14.870 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:37:14.879 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+15:37:14.894 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+15:37:14.897 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:37:14.898 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+15:37:14.900 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:37:14.900 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:37:14.901 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:37:14.901 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:37:14.903 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:37:14.903 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:37:14.904 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:37:14.904 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:37:14.907 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:37:14.908 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:37:14.908 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:37:14.908 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:37:14.909 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:37:14.910 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:37:14.912 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:37:14.912 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:37:14.912 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:37:14.912 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:37:14.925 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VdmnRao\AppData\Local\Temp\testng-eclipse-2110635329\testng-customsuite.xml
+
+15:37:14.956 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+15:37:15.511 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@acb0951: 334 ms
+15:37:15.561 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7e985ce9: 50 ms
+15:37:15.586 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@757d6814: 24 ms
+15:37:15.608 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@89c10b7: 22 ms
+15:37:15.620 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5b970f7: 12 ms
+15:37:15.620 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7fd4acee: 0 ms
+15:37:52.425 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+15:37:52.451 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+15:37:52.796 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\testng.xml
+
+15:40:00.538 [main] INFO  testCases.TC001_AccountRegistrationPageTest - ***** Test case started *****
+15:40:05.396 [main] INFO  testCases.TC001_AccountRegistrationPageTest - My account Clicked
+15:40:10.902 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Registration Clicked
+15:40:10.906 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Providing Customer details...
+15:40:15.808 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Validating expected message
+15:40:16.136 [main] ERROR testCases.TC001_AccountRegistrationPageTest - Test Failed
+15:40:16.136 [main] DEBUG testCases.TC001_AccountRegistrationPageTest - Debug logs...
+15:40:58.375 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+15:40:58.402 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+15:40:58.748 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\testng.xml
+
+15:41:45.168 [main] INFO  testCases.TC001_AccountRegistrationPageTest - ***** Test case started *****
+15:41:46.585 [main] INFO  testCases.TC001_AccountRegistrationPageTest - My account Clicked
+15:41:50.608 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Registration Clicked
+15:41:50.614 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Providing Customer details...
+15:41:53.786 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Validating expected message
+15:41:53.839 [main] ERROR testCases.TC001_AccountRegistrationPageTest - Test Failed
+15:41:53.840 [main] DEBUG testCases.TC001_AccountRegistrationPageTest - Debug logs...
+15:43:32.993 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+15:43:33.022 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+15:43:33.377 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\testng.xml
+
+15:43:49.725 [main] INFO  testCases.TC001_AccountRegistrationPageTest - ***** Test case started *****
+15:43:49.886 [main] INFO  testCases.TC001_AccountRegistrationPageTest - My account Clicked
+15:43:51.251 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Registration Clicked
+15:43:51.255 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Providing Customer details...
+15:43:53.394 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Validating expected message
+15:43:53.439 [main] ERROR testCases.TC001_AccountRegistrationPageTest - Test Failed
+15:43:53.439 [main] DEBUG testCases.TC001_AccountRegistrationPageTest - Debug logs...
+15:47:43.687 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\crossbrowsertesting.xml"
+15:47:43.716 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\crossbrowsertesting.xml] otherwise TestNG may fail or not work as expected.
+15:47:44.110 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\crossbrowsertesting.xml
+
+15:47:51.279 [main] INFO  testCases.TC001_AccountRegistrationPageTest - ***** Test case started *****
+15:47:51.505 [main] INFO  testCases.TC001_AccountRegistrationPageTest - My account Clicked
+15:47:52.330 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Registration Clicked
+15:47:52.335 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Providing Customer details...
+15:47:54.090 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Validating expected message
+15:47:54.136 [main] ERROR testCases.TC001_AccountRegistrationPageTest - Test Failed
+15:47:54.136 [main] DEBUG testCases.TC001_AccountRegistrationPageTest - Debug logs...
+15:48:05.176 [main] INFO  testCases.TC001_AccountRegistrationPageTest - ***** Test case started *****
+15:48:05.904 [main] INFO  testCases.TC001_AccountRegistrationPageTest - My account Clicked
+15:48:06.663 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Registration Clicked
+15:48:06.664 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Providing Customer details...
+15:48:09.213 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Validating expected message
+15:48:09.350 [main] ERROR testCases.TC001_AccountRegistrationPageTest - Test Failed
+15:48:09.350 [main] DEBUG testCases.TC001_AccountRegistrationPageTest - Debug logs...
+15:48:26.386 [main] INFO  testCases.TC001_AccountRegistrationPageTest - ***** Test case started *****
+15:48:26.664 [main] INFO  testCases.TC001_AccountRegistrationPageTest - My account Clicked
+15:48:27.338 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Registration Clicked
+15:48:27.339 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Providing Customer details...
+15:48:29.566 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Validating expected message
+15:48:29.600 [main] ERROR testCases.TC001_AccountRegistrationPageTest - Test Failed
+15:48:29.600 [main] DEBUG testCases.TC001_AccountRegistrationPageTest - Debug logs...
+15:49:09.111 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\crossbrowsertesting.xml"
+15:49:09.138 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\crossbrowsertesting.xml] otherwise TestNG may fail or not work as expected.
+15:49:09.520 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\crossbrowsertesting.xml
+
+15:49:27.344 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPageTest - ***** Test case started *****
+15:49:27.568 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPageTest - My account Clicked
+15:49:29.744 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPageTest - Registration Clicked
+15:49:29.755 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPageTest - Providing Customer details...
+15:49:29.778 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPageTest - ***** Test case started *****
+15:49:30.138 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPageTest - My account Clicked
+15:49:32.396 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPageTest - Registration Clicked
+15:49:32.402 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPageTest - Providing Customer details...
+15:49:33.380 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPageTest - Validating expected message
+15:49:33.448 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationPageTest - Test Failed
+15:49:33.448 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationPageTest - Debug logs...
+15:49:35.142 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPageTest - Validating expected message
+15:49:35.196 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationPageTest - Test Failed
+15:49:35.196 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationPageTest - Debug logs...
+15:49:45.209 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPageTest - ***** Test case started *****
+15:49:45.440 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPageTest - My account Clicked
+15:49:46.359 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPageTest - Registration Clicked
+15:49:46.360 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPageTest - Providing Customer details...
+15:49:48.219 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPageTest - Validating expected message
+15:49:48.295 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationPageTest - Test Failed
+15:49:48.295 [TestNG-tests-3] DEBUG testCases.TC001_AccountRegistrationPageTest - Debug logs...
+15:50:20.647 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\crossbrowsertesting.xml"
+15:50:20.680 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\crossbrowsertesting.xml] otherwise TestNG may fail or not work as expected.
+15:50:21.071 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\crossbrowsertesting.xml
+
+15:50:41.544 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPageTest - ***** Test case started *****
+15:50:41.844 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPageTest - My account Clicked
+15:50:43.526 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPageTest - Registration Clicked
+15:50:43.529 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPageTest - Providing Customer details...
+15:50:45.982 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPageTest - Validating expected message
+15:50:46.393 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPageTest - ***** Test case started *****
+15:50:46.763 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPageTest - My account Clicked
+15:50:48.028 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPageTest - Registration Clicked
+15:50:48.030 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPageTest - Providing Customer details...
+15:50:50.242 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPageTest - Validating expected message
+15:50:56.161 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPageTest - ***** Test case started *****
+15:50:56.319 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPageTest - My account Clicked
+15:50:57.434 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPageTest - Registration Clicked
+15:50:57.435 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPageTest - Providing Customer details...
+15:50:58.881 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPageTest - Validating expected message
+15:57:28.695 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\VdmnRao\AppData\Local\Temp\testng-eclipse-1566551646\testng-customsuite.xml"
+15:57:29.032 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:57:29.037 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+15:57:29.041 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:57:29.041 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:57:29.042 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:57:29.042 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:57:29.043 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:57:29.043 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:57:29.052 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+15:57:29.064 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+15:57:29.066 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:57:29.066 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:57:29.068 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:57:29.068 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:57:29.068 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:57:29.069 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:57:29.070 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:57:29.071 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:57:29.072 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:57:29.072 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:57:29.075 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:57:29.075 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:57:29.075 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:57:29.076 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:57:29.077 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:57:29.078 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:57:29.079 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:57:29.079 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:57:29.080 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:57:29.080 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:57:29.093 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VdmnRao\AppData\Local\Temp\testng-eclipse-1566551646\testng-customsuite.xml
+
+15:57:29.131 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+15:57:29.552 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5bf22f18: 207 ms
+15:57:29.591 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2a39fe6a: 38 ms
+15:57:29.620 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@649725e3: 29 ms
+15:57:29.634 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5dbe30be: 13 ms
+15:57:29.657 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7fd4acee: 22 ms
+15:57:29.657 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@165b8a71: 0 ms
+15:59:05.605 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\VdmnRao\AppData\Local\Temp\testng-eclipse--236079029\testng-customsuite.xml"
+15:59:05.974 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+15:59:05.979 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+15:59:05.982 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:59:05.983 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:59:05.984 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:59:05.984 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:59:05.985 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:59:05.985 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:59:05.994 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+15:59:06.006 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+15:59:06.009 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:59:06.009 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:59:06.010 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:59:06.010 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:59:06.011 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:59:06.011 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:59:06.013 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:59:06.013 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:59:06.014 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:59:06.014 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:59:06.018 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:59:06.018 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:59:06.019 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:59:06.019 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:59:06.020 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:59:06.021 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:59:06.023 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:59:06.023 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:59:06.023 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:59:06.023 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:59:06.037 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VdmnRao\AppData\Local\Temp\testng-eclipse--236079029\testng-customsuite.xml
+
+15:59:06.075 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+15:59:06.684 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5bf22f18: 398 ms
+15:59:06.713 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2a39fe6a: 29 ms
+15:59:06.753 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@649725e3: 40 ms
+15:59:06.765 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5dbe30be: 12 ms
+15:59:06.785 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7fd4acee: 18 ms
+15:59:06.786 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@165b8a71: 1 ms
+16:01:19.383 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+16:01:19.410 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+16:01:19.782 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\testng.xml
+
+16:04:14.402 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\crossbrowsertesting.xml"
+16:04:14.430 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\crossbrowsertesting.xml] otherwise TestNG may fail or not work as expected.
+16:04:14.909 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\crossbrowsertesting.xml
+
+16:09:04.320 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+16:09:04.347 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+16:09:04.704 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\testng.xml
+
+16:12:21.682 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+16:12:21.713 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+16:12:22.074 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\testng.xml
+
+16:12:32.808 [main] INFO  testCases.TC001_AccountRegistrationPageTest - ***** Test case started *****
+16:12:33.430 [main] INFO  testCases.TC001_AccountRegistrationPageTest - My account Clicked
+16:12:34.214 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Registration Clicked
+16:12:34.261 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Providing Customer details...
+16:12:38.271 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Validating expected message
+20:47:43.344 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+20:47:43.400 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+20:47:43.746 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\testng.xml
+
+20:47:55.648 [main] INFO  testCases.TC001_AccountRegistrationPageTest - ***** Test case started *****
+20:47:55.797 [main] INFO  testCases.TC001_AccountRegistrationPageTest - My account Clicked
+20:47:57.092 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Registration Clicked
+20:47:57.099 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Providing Customer details...
+20:47:59.190 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Validating expected message
+23:25:25.455 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+23:25:25.574 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+23:25:26.275 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\testng.xml
+
+23:26:19.924 [main] INFO  testCases.TC001_AccountRegistrationPageTest - ***** Test case started *****
+23:26:20.605 [main] INFO  testCases.TC001_AccountRegistrationPageTest - My account Clicked
+23:26:25.733 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Registration Clicked
+23:26:25.922 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Providing Customer details...
+23:26:29.537 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Validating expected message
+14:31:19.147 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+14:31:19.218 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+14:31:20.118 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\testng.xml
+
+14:31:48.753 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+14:31:48.835 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+14:31:49.767 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\testng.xml
+
+14:33:41.507 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+14:33:41.602 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+14:33:42.551 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\testng.xml
+
+14:34:47.663 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+14:34:47.745 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+14:34:48.705 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\testng.xml
+
+14:36:29.461 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+14:36:29.556 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+14:36:30.717 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\testng.xml
+
+14:38:14.436 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+14:38:14.564 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+14:38:15.936 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\testng.xml
+
+14:39:07.884 [main] INFO  testCases.TC001_AccountRegistrationPageTest - ***** Test case started *****
+14:39:08.794 [main] INFO  testCases.TC001_AccountRegistrationPageTest - My account Clicked
+14:39:10.120 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Registration Clicked
+14:39:10.140 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Providing Customer details...
+14:39:15.021 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Validating expected message
+14:43:41.883 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+14:43:41.971 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+14:43:43.104 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\testng.xml
+
+14:43:56.534 [main] INFO  testCases.TC001_AccountRegistrationPageTest - ***** Test case started *****
+14:43:57.011 [main] INFO  testCases.TC001_AccountRegistrationPageTest - My account Clicked
+14:43:58.375 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Registration Clicked
+14:43:58.385 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Providing Customer details...
+14:44:02.896 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Validating expected message
+14:44:37.806 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+14:44:37.890 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+14:44:38.820 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\testng.xml
+
+14:49:51.162 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+14:49:51.260 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+14:49:52.344 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\testng.xml
+
+14:50:04.032 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+23:21:32.167 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+23:21:32.239 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+23:21:33.139 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\testng.xml
+
+23:21:53.536 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:21:53.560 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:21:56.908 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:21:56.915 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:21:57.102 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:21:57.126 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:21:57.406 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:21:57.412 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:21:57.651 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:21:57.659 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:21:57.864 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:21:57.870 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:21:58.089 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:21:58.099 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:21:58.258 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:21:58.262 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:21:58.499 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:21:58.514 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:21:58.818 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:21:58.829 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:21:59.102 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:21:59.107 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:21:59.508 [main] INFO  testCases.TC003_LoginDDT - ***** starting TC_003_LoginDDT*****
+23:22:16.619 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+23:22:16.648 [main] INFO  testCases.TC003_LoginDDT - ***** starting TC_003_LoginDDT*****
+23:22:26.989 [main] INFO  testCases.TC003_LoginDDT - ***** starting TC_003_LoginDDT*****
+23:27:01.707 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+23:27:01.781 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+23:27:02.890 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\testng.xml
+
+23:27:14.949 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:27:14.970 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:27:17.949 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:27:17.957 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:27:18.176 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:27:18.183 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:27:18.362 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:27:18.367 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:27:18.536 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:27:18.542 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:27:18.705 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:27:18.711 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:27:18.833 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:27:18.838 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:27:18.956 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:27:18.963 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:27:19.077 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:27:19.083 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:27:19.199 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:27:19.204 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:27:19.307 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:27:19.311 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:27:19.487 [main] INFO  testCases.TC003_LoginDDT - ***** starting TC_003_LoginDDT*****
+23:27:33.459 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+23:27:33.490 [main] INFO  testCases.TC003_LoginDDT - ***** starting TC_003_LoginDDT*****
+23:27:43.940 [main] INFO  testCases.TC003_LoginDDT - ***** starting TC_003_LoginDDT*****
+23:30:08.746 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+23:30:08.819 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+23:30:09.831 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\testng.xml
+
+23:30:24.800 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:30:24.863 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:30:27.854 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:30:27.864 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:30:28.059 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:30:28.071 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:30:28.383 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:30:28.389 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:30:28.561 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:30:28.569 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:30:28.688 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:30:28.695 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:30:28.855 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:30:28.861 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:30:28.980 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:30:28.985 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:30:29.091 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:30:29.096 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:30:29.215 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:30:29.219 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels

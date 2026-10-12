@@ -1,0 +1,159 @@
+23:30:29.330 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:30:29.389 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:30:29.539 [main] INFO  testCases.TC003_LoginDDT - ***** starting TC_003_LoginDDT*****
+23:30:45.079 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+23:30:45.112 [main] INFO  testCases.TC003_LoginDDT - ***** starting TC_003_LoginDDT*****
+23:30:58.343 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+23:30:58.362 [main] INFO  testCases.TC003_LoginDDT - ***** starting TC_003_LoginDDT*****
+23:32:19.286 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+23:32:19.362 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+23:32:20.389 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\testng.xml
+
+23:32:33.007 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:32:33.023 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:32:36.256 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:32:36.263 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:32:36.514 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:32:36.526 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:32:36.794 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:32:36.802 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:32:36.963 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:32:36.969 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:32:37.118 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:32:37.123 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:32:37.294 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:32:37.300 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:32:37.443 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:32:37.449 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:32:37.573 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:32:37.579 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:32:37.684 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:32:37.688 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:32:37.790 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:32:37.795 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:32:37.955 [main] INFO  testCases.TC003_LoginDDT - ***** starting TC_003_LoginDDT*****
+23:32:50.038 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+23:32:50.070 [main] INFO  testCases.TC003_LoginDDT - ***** starting TC_003_LoginDDT*****
+23:33:03.995 [main] INFO  testCases.TC003_LoginDDT - ***** starting TC_003_LoginDDT*****
+23:43:25.523 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+23:43:25.671 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+23:43:26.591 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\testng.xml
+
+23:43:40.600 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:43:40.615 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:43:43.717 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:43:43.726 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:43:43.903 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:43:43.910 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:43:44.082 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:43:44.088 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:43:44.245 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:43:44.251 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:43:44.382 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:43:44.387 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:43:44.512 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:43:44.518 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:43:44.705 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:43:44.712 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:43:44.826 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:43:44.831 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:43:44.944 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:43:44.949 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:43:45.070 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:43:45.074 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:43:45.250 [main] INFO  testCases.TC003_LoginDDT - ***** starting TC_003_LoginDDT*****
+23:44:00.463 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+23:44:00.488 [main] INFO  testCases.TC003_LoginDDT - ***** starting TC_003_LoginDDT*****
+23:44:04.988 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+23:44:05.048 [main] INFO  testCases.TC003_LoginDDT - ***** starting TC_003_LoginDDT*****
+23:44:17.649 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+18:12:16.488 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\grouping.xml"
+18:12:16.547 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+18:12:16.984 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\grouping.xml
+
+18:12:39.745 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+18:12:43.789 [main] INFO  testCases.TC002_LoginTest -  ***** FinishedTC_002_LoginTest *****
+18:12:58.308 [main] INFO  testCases.TC001_AccountRegistrationPageTest - ***** Test case started *****
+18:12:58.457 [main] INFO  testCases.TC001_AccountRegistrationPageTest - My account Clicked
+18:12:59.473 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Registration Clicked
+18:12:59.476 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Providing Customer details...
+18:13:03.242 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Validating expected message
+18:13:18.590 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\grouping.xml"
+18:13:18.616 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+18:13:19.008 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\grouping.xml
+
+18:13:25.791 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+18:13:28.163 [main] INFO  testCases.TC002_LoginTest -  ***** FinishedTC_002_LoginTest *****
+18:13:35.221 [main] INFO  testCases.TC001_AccountRegistrationPageTest - ***** Test case started *****
+18:13:35.330 [main] INFO  testCases.TC001_AccountRegistrationPageTest - My account Clicked
+18:13:36.599 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Registration Clicked
+18:13:36.606 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Providing Customer details...
+18:13:38.866 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Validating expected message
+19:49:58.366 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\grouping.xml"
+19:49:58.391 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+19:50:30.968 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\grouping.xml"
+19:50:30.994 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+19:54:31.281 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\grouping.xml"
+19:54:31.328 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+19:54:31.699 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\grouping.xml
+
+19:54:51.981 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+19:54:55.636 [main] INFO  testCases.TC002_LoginTest -  ***** FinishedTC_002_LoginTest *****
+19:55:05.480 [main] INFO  testCases.TC001_AccountRegistrationPageTest - ***** Test case started *****
+19:55:05.594 [main] INFO  testCases.TC001_AccountRegistrationPageTest - My account Clicked
+19:55:06.617 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Registration Clicked
+19:55:06.679 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Providing Customer details...
+19:55:09.976 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Validating expected message
+19:56:22.113 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\grouping.xml"
+19:56:22.140 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+19:56:22.537 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\grouping.xml
+
+19:56:33.264 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+19:56:56.268 [main] INFO  testCases.TC001_AccountRegistrationPageTest - ***** Test case started *****
+19:56:56.400 [main] INFO  testCases.TC001_AccountRegistrationPageTest - My account Clicked
+19:56:57.371 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Registration Clicked
+19:56:57.374 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Providing Customer details...
+19:56:59.425 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Validating expected message
+19:58:04.218 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\test-output\testng-failed.xml"
+19:58:04.244 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\test-output\testng-failed.xml] otherwise TestNG may fail or not work as expected.
+19:58:04.599 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\test-output\testng-failed.xml
+
+19:58:12.636 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+19:59:27.572 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\test-output\testng-failed.xml"
+19:59:27.597 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\test-output\testng-failed.xml] otherwise TestNG may fail or not work as expected.
+19:59:27.937 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\test-output\testng-failed.xml
+
+19:59:35.271 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+19:59:37.405 [main] INFO  testCases.TC002_LoginTest -  ***** FinishedTC_002_LoginTest *****
+12:12:07.934 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+12:12:08.068 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+12:14:39.574 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+12:14:39.598 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+12:14:40.307 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\testng.xml
+
+12:15:18.305 [main] INFO  testCases.TC001_AccountRegistrationPageTest - ***** Test case started *****
+12:15:18.912 [main] INFO  testCases.TC001_AccountRegistrationPageTest - My account Clicked
+12:15:19.792 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Registration Clicked
+12:15:20.090 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Providing Customer details...
+12:15:22.579 [main] INFO  testCases.TC001_AccountRegistrationPageTest - Validating expected message
+12:15:34.042 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+12:15:36.504 [main] INFO  testCases.TC002_LoginTest -  ***** FinishedTC_002_LoginTest *****
+12:16:14.639 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+12:16:14.665 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+12:16:15.053 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\testng.xml
+
+12:23:02.279 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Kavya\OpencartV121\testng.xml"
+12:23:02.304 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Kavya\OpencartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+12:23:02.656 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Kavya\OpencartV121\testng.xml
+
